@@ -1,34 +1,89 @@
-# Hi, I'm Oybek 👋
+# Hey, I'm Oybek 👋
 
-I'm a Computer Science student with a strong foundation in C programming and data structures.
-Currently, I am learning Python and exploring data analysis and machine learning concepts.
+## 🔐 About Me
 
-## Skills
-- C Programming
-- Data Structures
-- Python (Learning)
-- NumPy & Pandas (Beginner)
+I'm a Computer Science student and aspiring Cybersecurity Specialist focused on ethical hacking and penetration testing.
 
-## Projects
-- Loan Tracker (C)
-- Final Book Exchange (Flask, MongoDB)
+Currently, I’m learning:
 
-## Goals
-- Improve Python and problem-solving skills
-- Build more academic and personal projects
+* Web Application Security
+* Network Security
+* Linux & System Administration
+* Python for Cybersecurity
+* Penetration Testing Methodologies
 
+I enjoy exploring vulnerabilities, understanding how systems work, and improving security through hands-on practice.
 
-<!--
-**oybekccodes/oybekccodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming
+
+* C Programming
+* Python (Learning)
+* Bash Scripting (Beginner)
+
+### Cybersecurity
+
+* Penetration Testing
+* Web Security Basics
+* Linux Fundamentals
+* Networking Fundamentals
+* OWASP Top 10
+
+### Tools & Technologies
+
+* Linux
+* Git & GitHub
+* Flask
+* MongoDB
+
+---
+
+## 📌 Projects
+
+### 💰 Loan Tracker
+
+A C programming project focused on:
+
+* Structures
+* File Handling
+* Modular Programming
+
+---
+
+## 🎯 Goals
+
+* Become a Professional Penetration Tester
+* Learn Advanced Web Exploitation
+* Build Cybersecurity Tools
+* Participate in CTF Challenges
+* Contribute to Security Projects
+
+---
+
+## 📚 Currently Learning
+
+* Ethical Hacking
+* Kali Linux
+* Burp Suite
+* Python for Pentesting
+* Web Exploitation
+
+---
+
+## ⚡ Fun Fact
+
+I love breaking things ethically to understand how to secure them better 🔐
+
+---
+
+## 🌍 Connect With Me
+
+* GitHub: https://github.com/oybekcodes
+* LinkedIn: www.linkedin.com/in/oybek-tojimakhmudov
+
+---
+
+⭐ Thanks for visiting my profile!
